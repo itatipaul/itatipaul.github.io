@@ -1,0 +1,2193 @@
+{
+  "total": 82,
+  "documented": 51,
+  "summary": {
+    "Offensive Security": {
+      "total": 26,
+      "documented": 14
+    },
+    "Cryptography": {
+      "total": 12,
+      "documented": 9
+    },
+    "OSINT": {
+      "total": 14,
+      "documented": 11
+    },
+    "Forensics": {
+      "total": 17,
+      "documented": 9
+    },
+    "Malware Analysis": {
+      "total": 13,
+      "documented": 8
+    }
+  },
+  "challenges": [
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "Maverick",
+      "path": "1. Offensive Security/1. Maverick",
+      "challengeFile": "1. Offensive Security/1. Maverick/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "1. Offensive Security/1. Maverick/Marverick_writeup_by_Senpai_2026.pdf",
+      "artifactCount": 8,
+      "imagePaths": [],
+      "artifactNames": [
+        "Marverick_writeup_by_Senpai_2026.pdf",
+        "Maverick.md",
+        "Maverick_MAVLink.md",
+        "flag.txt",
+        "marverick_writeup.txt",
+        "serial_bridge.py",
+        "writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "otp",
+      "path": "1. Offensive Security/10. WebBasics/1. otp",
+      "challengeFile": "1. Offensive Security/10. WebBasics/1. otp/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "1. Offensive Security/10. WebBasics/1. otp/WebBasics-OTP_Writeup_by_Senpai_2026.pdf",
+      "artifactCount": 5,
+      "imagePaths": [
+        "1. Offensive Security/10. WebBasics/1. otp/otp_flag.png"
+      ],
+      "artifactNames": [
+        "WebBasics-OTP_Writeup_by_Senpai_2026.pdf",
+        "WebBasics_OTP.md",
+        "otp_flag.png",
+        "otp_writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "Velvet Notes",
+      "path": "1. Offensive Security/10. WebBasics/2. Velvet Notes",
+      "challengeFile": "1. Offensive Security/10. WebBasics/2. Velvet Notes/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 1,
+      "imagePaths": [],
+      "artifactNames": [],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "Prying eyes",
+      "path": "1. Offensive Security/11. Return the blow/1. Prying eyes",
+      "challengeFile": "1. Offensive Security/11. Return the blow/1. Prying eyes/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "1. Offensive Security/11. Return the blow/1. Prying eyes/Prying_Eyes.md",
+      "artifactCount": 7,
+      "imagePaths": [
+        "1. Offensive Security/11. Return the blow/1. Prying eyes/flag.png"
+      ],
+      "artifactNames": [
+        "Prying_Eyes.md",
+        "flag.png",
+        "flag.txt",
+        "prying eyes files.zip",
+        "prying_eyes_writeup_by_Senpai_2026.pdf",
+        "prying_eyes_writeup_by_Senpai_2026.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "Broken trust",
+      "path": "1. Offensive Security/11. Return the blow/2. Broken trust",
+      "challengeFile": "1. Offensive Security/11. Return the blow/2. Broken trust/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "1. Offensive Security/11. Return the blow/2. Broken trust/Broken_Trust.md",
+      "artifactCount": 8,
+      "imagePaths": [
+        "1. Offensive Security/11. Return the blow/2. Broken trust/flag.png",
+        "1. Offensive Security/11. Return the blow/2. Broken trust/spunchbob.png"
+      ],
+      "artifactNames": [
+        "Broken_Trust.md",
+        "broken_trust_writeup_by_Senpai_2026.pdf",
+        "broken_trust_writeup_by_Senpai_2026.txt",
+        "flag.png",
+        "flag.txt",
+        "prying eyes files.zip",
+        "spunchbob.png"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "The Notes",
+      "path": "1. Offensive Security/11. Return the blow/3. The Notes",
+      "challengeFile": "1. Offensive Security/11. Return the blow/3. The Notes/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "1. Offensive Security/11. Return the blow/3. The Notes/The_Notes.md",
+      "artifactCount": 7,
+      "imagePaths": [
+        "1. Offensive Security/11. Return the blow/3. The Notes/flag.png"
+      ],
+      "artifactNames": [
+        "The_Notes.md",
+        "flag.png",
+        "flag.txt",
+        "prying eyes files.zip",
+        "the_notes_writeup_ by_Senpai_2026.txt",
+        "the_notes_writeup_by_Senpai_2026.pdf"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "ricettoni",
+      "path": "1. Offensive Security/12. Bins/1. ricettoni",
+      "challengeFile": "1. Offensive Security/12. Bins/1. ricettoni/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "1. Offensive Security/12. Bins/1. ricettoni/ricettoni_writeup.md",
+      "artifactCount": 4,
+      "imagePaths": [],
+      "artifactNames": [
+        "ricettoni.zip",
+        "ricettoni_writeup.md",
+        "solver.py"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "bins textweaver",
+      "path": "1. Offensive Security/12. Bins/2. bins-textweaver",
+      "challengeFile": "1. Offensive Security/12. Bins/2. bins-textweaver/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 2,
+      "imagePaths": [],
+      "artifactNames": [
+        "textweaver.zip"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "bins tower of hanoi",
+      "path": "1. Offensive Security/12. Bins/3. bins-tower-of-hanoi",
+      "challengeFile": "1. Offensive Security/12. Bins/3. bins-tower-of-hanoi/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 2,
+      "imagePaths": [],
+      "artifactNames": [
+        "towerofhanoi.zip"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "bins tower of hanoi revenge",
+      "path": "1. Offensive Security/12. Bins/4. bins-tower-of-hanoi-revenge",
+      "challengeFile": "1. Offensive Security/12. Bins/4. bins-tower-of-hanoi-revenge/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 2,
+      "imagePaths": [],
+      "artifactNames": [
+        "towerofhanoi-revenge.zip"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "future.js",
+      "path": "1. Offensive Security/2. future.js",
+      "challengeFile": "1. Offensive Security/2. future.js/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "1. Offensive Security/2. future.js/futurejs_Writeup.md",
+      "artifactCount": 3,
+      "imagePaths": [],
+      "artifactNames": [
+        "futurejs_Writeup.md",
+        "handout_futurejs.zip"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "SnailNet",
+      "path": "1. Offensive Security/3. SnailNet",
+      "challengeFile": "1. Offensive Security/3. SnailNet/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "1. Offensive Security/3. SnailNet/SnailNet_1998.md",
+      "artifactCount": 5,
+      "imagePaths": [],
+      "artifactNames": [
+        "SnailNet_1998.md",
+        "SnailNet_writeup_By_Saad_2026.pdf",
+        "flag.txt",
+        "handout_snailnet.zip"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "Yipiter",
+      "path": "1. Offensive Security/4. Yipiter",
+      "challengeFile": "1. Offensive Security/4. Yipiter/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 2,
+      "imagePaths": [],
+      "artifactNames": [
+        "handout_updated.zip"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "v8",
+      "path": "1. Offensive Security/5. v8",
+      "challengeFile": "1. Offensive Security/5. v8/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 2,
+      "imagePaths": [],
+      "artifactNames": [
+        "handout.zip"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "Googleproxy",
+      "path": "1. Offensive Security/6. Googleproxy",
+      "challengeFile": "1. Offensive Security/6. Googleproxy/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 2,
+      "imagePaths": [],
+      "artifactNames": [
+        "z0h4wqz.zip"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "jailPS SAFEPS",
+      "path": "1. Offensive Security/7. JailPS/jailPS-SAFEPS",
+      "challengeFile": "1. Offensive Security/7. JailPS/jailPS-SAFEPS/Challenge.txt.txt",
+      "writeupAvailable": true,
+      "writeupPath": "1. Offensive Security/7. JailPS/jailPS-SAFEPS/JailPS_SafePS.md",
+      "artifactCount": 7,
+      "imagePaths": [
+        "1. Offensive Security/7. JailPS/jailPS-SAFEPS/JAILFPS broken.png"
+      ],
+      "artifactNames": [
+        "JAILFPS broken.png",
+        "JailPS_SafePS.md",
+        "jail-safeps.txt",
+        "jail-safeps_writeup_by_Senpai_2026.pdf",
+        "jail-safeps_writeup_by_Senpai_2026.txt",
+        "safeps.zip"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "jailPS SAFEPSv2",
+      "path": "1. Offensive Security/7. JailPS/jailPS-SAFEPSv2",
+      "challengeFile": "1. Offensive Security/7. JailPS/jailPS-SAFEPSv2/Challenge.txt.txt",
+      "writeupAvailable": true,
+      "writeupPath": "1. Offensive Security/7. JailPS/jailPS-SAFEPSv2/JailPS_SafePS_v2.md",
+      "artifactCount": 6,
+      "imagePaths": [
+        "1. Offensive Security/7. JailPS/jailPS-SAFEPSv2/jail-spsv2.png"
+      ],
+      "artifactNames": [
+        "JailPS_SafePS_v2.md",
+        "jail-safepsv2-writeup.txt",
+        "jail-safepsv2_writeup_by_Senpai_2026.pdf",
+        "jail-spsv2.png",
+        "safepsv2.zip"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "ormt1",
+      "path": "1. Offensive Security/8. ORMT/ormt1",
+      "challengeFile": "1. Offensive Security/8. ORMT/ormt1/Challenge.txt.txt",
+      "writeupAvailable": true,
+      "writeupPath": "1. Offensive Security/8. ORMT/ormt1/ORMT SOLVED.pdf",
+      "artifactCount": 7,
+      "imagePaths": [],
+      "artifactNames": [
+        "ORMT SOLVED.pdf",
+        "ORMT1 files.zip",
+        "ORM_Injection.md",
+        "ORM_writeup.txt",
+        "flag.txt",
+        "ormt1_writeup_by_Senpai_2026.pdf"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "ormt2",
+      "path": "1. Offensive Security/8. ORMT/ormt2",
+      "challengeFile": "1. Offensive Security/8. ORMT/ormt2/Challenge.txt.txt",
+      "writeupAvailable": true,
+      "writeupPath": "1. Offensive Security/8. ORMT/ormt2/ORM_Challenge2.md",
+      "artifactCount": 6,
+      "imagePaths": [],
+      "artifactNames": [
+        "ORMT2 files.zip",
+        "ORM_Challenge2.md",
+        "exploit.py",
+        "ormt2_writeup.txt",
+        "timing_test.py"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "ormt3",
+      "path": "1. Offensive Security/8. ORMT/ormt3",
+      "challengeFile": "1. Offensive Security/8. ORMT/ormt3/Challenge.txt.txt",
+      "writeupAvailable": true,
+      "writeupPath": "1. Offensive Security/8. ORMT/ormt3/ORMT3_Writeup_by_Senpai_2026.pdf",
+      "artifactCount": 7,
+      "imagePaths": [
+        "1. Offensive Security/8. ORMT/ormt3/ormt3 flag.png"
+      ],
+      "artifactNames": [
+        "ORMT3 files.zip",
+        "ORMT3_Writeup_by_Senpai_2026.pdf",
+        "ORM_Challenge3.md",
+        "exploit.py",
+        "ormt3 flag.png",
+        "ormt3_writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "requestria lesson zero",
+      "path": "1. Offensive Security/9. rEquestria/1. requestria-lesson-zero",
+      "challengeFile": "1. Offensive Security/9. rEquestria/1. requestria-lesson-zero/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "1. Offensive Security/9. rEquestria/1. requestria-lesson-zero/lesson_zero_writeup.txt",
+      "artifactCount": 6,
+      "imagePaths": [
+        "1. Offensive Security/9. rEquestria/1. requestria-lesson-zero/flag query.png",
+        "1. Offensive Security/9. rEquestria/1. requestria-lesson-zero/flag.png"
+      ],
+      "artifactNames": [
+        "flag query.png",
+        "flag.png",
+        "lesson_zero_writeup.txt",
+        "main36c9c96c.js",
+        "rEquestria_Lesson_Zero.md"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "requestria the other side",
+      "path": "1. Offensive Security/9. rEquestria/2. requestria-the-other-side",
+      "challengeFile": "1. Offensive Security/9. rEquestria/2. requestria-the-other-side/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 1,
+      "imagePaths": [],
+      "artifactNames": [],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "requestria potion mystery",
+      "path": "1. Offensive Security/9. rEquestria/3. requestria-potion-mystery",
+      "challengeFile": "1. Offensive Security/9. rEquestria/3. requestria-potion-mystery/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 1,
+      "imagePaths": [],
+      "artifactNames": [],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "requestria keep calm and flutter on",
+      "path": "1. Offensive Security/9. rEquestria/4. requestria-keep-calm-and-flutter-on",
+      "challengeFile": "1. Offensive Security/9. rEquestria/4. requestria-keep-calm-and-flutter-on/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 1,
+      "imagePaths": [],
+      "artifactNames": [],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "requestria the last problem",
+      "path": "1. Offensive Security/9. rEquestria/5. requestria-the-last-problem",
+      "challengeFile": "1. Offensive Security/9. rEquestria/5. requestria-the-last-problem/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 2,
+      "imagePaths": [],
+      "artifactNames": [
+        "f60pmhd.zip"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Offensive Security",
+      "familyPath": "1. Offensive Security",
+      "title": "requestria newbie dash",
+      "path": "1. Offensive Security/9. rEquestria/6. requestria-newbie-dash",
+      "challengeFile": "1. Offensive Security/9. rEquestria/6. requestria-newbie-dash/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 1,
+      "imagePaths": [],
+      "artifactNames": [],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Cryptography",
+      "familyPath": "2. Cryptography",
+      "title": "layers of encoding",
+      "path": "2. Cryptography/1. Crypto Sanity Check/1. layers of encoding",
+      "challengeFile": "2. Cryptography/1. Crypto Sanity Check/1. layers of encoding/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "2. Cryptography/1. Crypto Sanity Check/1. layers of encoding/layer of encoding writeup.md",
+      "artifactCount": 3,
+      "imagePaths": [],
+      "artifactNames": [
+        "layer of encoding writeup.md",
+        "layer of encoding writeup.txt.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Cryptography",
+      "familyPath": "2. Cryptography",
+      "title": "x^y encryption",
+      "path": "2. Cryptography/1. Crypto Sanity Check/2. x^y encryption",
+      "challengeFile": "2. Cryptography/1. Crypto Sanity Check/2. x^y encryption/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "2. Cryptography/1. Crypto Sanity Check/2. x^y encryption/encryption writeup.md.md",
+      "artifactCount": 7,
+      "imagePaths": [],
+      "artifactNames": [
+        "ciphertext.txt",
+        "encryption writeup.md.md",
+        "encryption writeup.txt.txt",
+        "encryptor.py",
+        "flag.txt.txt",
+        "solver.py.py"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Cryptography",
+      "familyPath": "2. Cryptography",
+      "title": "rotted",
+      "path": "2. Cryptography/1. Crypto Sanity Check/3. rotted",
+      "challengeFile": "2. Cryptography/1. Crypto Sanity Check/3. rotted/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "2. Cryptography/1. Crypto Sanity Check/3. rotted/rotted writeup.md",
+      "artifactCount": 3,
+      "imagePaths": [
+        "2. Cryptography/1. Crypto Sanity Check/3. rotted/Flag.png"
+      ],
+      "artifactNames": [
+        "Flag.png",
+        "rotted writeup.md"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Cryptography",
+      "familyPath": "2. Cryptography",
+      "title": "goldilocs",
+      "path": "2. Cryptography/2. Return of eliptic/1. goldilocs",
+      "challengeFile": "2. Cryptography/2. Return of eliptic/1. goldilocs/Challenge.txt.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 8,
+      "imagePaths": [],
+      "artifactNames": [
+        "__pycache__/handout.cpython-313.pyc",
+        "dec.py",
+        "flag.enc",
+        "flag.json",
+        "goldilocs_files.zip",
+        "goldilocs_wrteup.txt",
+        "handout.py"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Cryptography",
+      "familyPath": "2. Cryptography",
+      "title": "Extended Illusion",
+      "path": "2. Cryptography/2. Return of eliptic/2. Extended Illusion",
+      "challengeFile": "2. Cryptography/2. Return of eliptic/2. Extended Illusion/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 1,
+      "imagePaths": [],
+      "artifactNames": [],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Cryptography",
+      "familyPath": "2. Cryptography",
+      "title": "twisting the truth",
+      "path": "2. Cryptography/2. Return of eliptic/3. twisting the truth",
+      "challengeFile": "2. Cryptography/2. Return of eliptic/3. twisting the truth/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "2. Cryptography/2. Return of eliptic/3. twisting the truth/Twisting_the_Truth.md",
+      "artifactCount": 5,
+      "imagePaths": [],
+      "artifactNames": [
+        "Twisting_the_Truth.md",
+        "enc.enc",
+        "enc.json",
+        "handout.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Cryptography",
+      "familyPath": "2. Cryptography",
+      "title": "beethovens encryption",
+      "path": "2. Cryptography/3. Miscrypto/1. beethovens encryption",
+      "challengeFile": "2. Cryptography/3. Miscrypto/1. beethovens encryption/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "2. Cryptography/3. Miscrypto/1. beethovens encryption/Beethoven_Encryption.md",
+      "artifactCount": 6,
+      "imagePaths": [
+        "2. Cryptography/3. Miscrypto/1. beethovens encryption/beethoven.png"
+      ],
+      "artifactNames": [
+        "Beethoven_Encryption.md",
+        "beethoven.png",
+        "beethoven.zip",
+        "beethoven_writeup.txt",
+        "flag.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Cryptography",
+      "familyPath": "2. Cryptography",
+      "title": "Zippy zip",
+      "path": "2. Cryptography/3. Miscrypto/2. Zippy zip",
+      "challengeFile": "2. Cryptography/3. Miscrypto/2. Zippy zip/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "2. Cryptography/3. Miscrypto/2. Zippy zip/Zippy_Zip.md",
+      "artifactCount": 10,
+      "imagePaths": [],
+      "artifactNames": [
+        "Zippy_Zip.md",
+        "_flag.zip.extracted/0.zip",
+        "decrypted.txt",
+        "flag.txt",
+        "flag.zip",
+        "hash.txt",
+        "known.txt",
+        "plain.txt",
+        "zippy_writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Cryptography",
+      "familyPath": "2. Cryptography",
+      "title": "encryption enjoyer",
+      "path": "2. Cryptography/3. Miscrypto/3. encryption enjoyer",
+      "challengeFile": "2. Cryptography/3. Miscrypto/3. encryption enjoyer/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "2. Cryptography/3. Miscrypto/3. encryption enjoyer/Encryption_Enjoyer.md",
+      "artifactCount": 7,
+      "imagePaths": [],
+      "artifactNames": [
+        "Encryption_Enjoyer.md",
+        "ecryption_enjoyer_writeup.txt",
+        "encrypted",
+        "encrypted.zip",
+        "flag.txt",
+        "write_up.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Cryptography",
+      "familyPath": "2. Cryptography",
+      "title": "French technology",
+      "path": "2. Cryptography/4. RSA/1. French technology",
+      "challengeFile": "2. Cryptography/4. RSA/1. French technology/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "2. Cryptography/4. RSA/1. French technology/RSA_Small_Semi_Primes.md",
+      "artifactCount": 6,
+      "imagePaths": [],
+      "artifactNames": [
+        "RSA_Small_Semi_Primes.md",
+        "french_tech_writeup.txt",
+        "main.py",
+        "out.txt",
+        "solve.py"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Cryptography",
+      "familyPath": "2. Cryptography",
+      "title": "Hellish RSA",
+      "path": "2. Cryptography/4. RSA/3. Hellish RSA",
+      "challengeFile": "2. Cryptography/4. RSA/3. Hellish RSA/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 3,
+      "imagePaths": [],
+      "artifactNames": [
+        "data.txt",
+        "hell-rsa.py"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Cryptography",
+      "familyPath": "2. Cryptography",
+      "title": "Exponent works",
+      "path": "2. Cryptography/4. RSA/4. Exponent works",
+      "challengeFile": "2. Cryptography/4. RSA/4. Exponent works/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "2. Cryptography/4. RSA/4. Exponent works/RSA-Exponent_Writeup.md",
+      "artifactCount": 3,
+      "imagePaths": [],
+      "artifactNames": [
+        "RSA-Exponent_Writeup.md",
+        "data.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "OSINT",
+      "familyPath": "3. OSINT",
+      "title": "Target",
+      "path": "3. OSINT/1. Target",
+      "challengeFile": "3. OSINT/1. Target/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "3. OSINT/1. Target/Target.md",
+      "artifactCount": 3,
+      "imagePaths": [],
+      "artifactNames": [
+        "Target.md",
+        "Target.pdf"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "OSINT",
+      "familyPath": "3. OSINT",
+      "title": "Plain TXT",
+      "path": "3. OSINT/2. Osint Sanity Check/1. Plain TXT",
+      "challengeFile": "3. OSINT/2. Osint Sanity Check/1. Plain TXT/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "3. OSINT/2. Osint Sanity Check/1. Plain TXT/solution.txt",
+      "artifactCount": 3,
+      "imagePaths": [],
+      "artifactNames": [
+        "flag.txt.txt",
+        "solution.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "OSINT",
+      "familyPath": "3. OSINT",
+      "title": "Flag is in the description",
+      "path": "3. OSINT/2. Osint Sanity Check/2. Flag is in the description",
+      "challengeFile": "3. OSINT/2. Osint Sanity Check/2. Flag is in the description/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 2,
+      "imagePaths": [],
+      "artifactNames": [
+        "flag.txt.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "OSINT",
+      "familyPath": "3. OSINT",
+      "title": "Lore of the world The beginings",
+      "path": "3. OSINT/3. Lore of the world/1. Lore of the world - The beginings",
+      "challengeFile": "3. OSINT/3. Lore of the world/1. Lore of the world - The beginings/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "3. OSINT/3. Lore of the world/1. Lore of the world - The beginings/Lore_Beginnings.md",
+      "artifactCount": 4,
+      "imagePaths": [
+        "3. OSINT/3. Lore of the world/1. Lore of the world - The beginings/1.png"
+      ],
+      "artifactNames": [
+        "1.png",
+        "Lore_Beginnings.md",
+        "beginings_writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "OSINT",
+      "familyPath": "3. OSINT",
+      "title": "Lore of the world Bureaucracy",
+      "path": "3. OSINT/3. Lore of the world/2. Lore of the world - Bureaucracy",
+      "challengeFile": "3. OSINT/3. Lore of the world/2. Lore of the world - Bureaucracy/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "3. OSINT/3. Lore of the world/2. Lore of the world - Bureaucracy/Lore_Bureaucracy.md",
+      "artifactCount": 4,
+      "imagePaths": [
+        "3. OSINT/3. Lore of the world/2. Lore of the world - Bureaucracy/2.png"
+      ],
+      "artifactNames": [
+        "2.png",
+        "Lore_Bureaucracy.md",
+        "bureaucracy_writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "OSINT",
+      "familyPath": "3. OSINT",
+      "title": "Lore of the world Good doggie",
+      "path": "3. OSINT/3. Lore of the world/3. Lore of the world - Good doggie",
+      "challengeFile": "3. OSINT/3. Lore of the world/3. Lore of the world - Good doggie/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "3. OSINT/3. Lore of the world/3. Lore of the world - Good doggie/Lore_Good_Doggie.md",
+      "artifactCount": 4,
+      "imagePaths": [
+        "3. OSINT/3. Lore of the world/3. Lore of the world - Good doggie/4.png"
+      ],
+      "artifactNames": [
+        "4.png",
+        "Lore_Good_Doggie.md",
+        "good_doggie_writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "OSINT",
+      "familyPath": "3. OSINT",
+      "title": "Lore of the world Vantage point",
+      "path": "3. OSINT/3. Lore of the world/4. Lore of the world - Vantage point",
+      "challengeFile": "3. OSINT/3. Lore of the world/4. Lore of the world - Vantage point/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 2,
+      "imagePaths": [
+        "3. OSINT/3. Lore of the world/4. Lore of the world - Vantage point/5.png"
+      ],
+      "artifactNames": [
+        "5.png"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "OSINT",
+      "familyPath": "3. OSINT",
+      "title": "Lore of the world Server room",
+      "path": "3. OSINT/3. Lore of the world/5. Lore of the world - Server room",
+      "challengeFile": "3. OSINT/3. Lore of the world/5. Lore of the world - Server room/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 2,
+      "imagePaths": [
+        "3. OSINT/3. Lore of the world/5. Lore of the world - Server room/6.png"
+      ],
+      "artifactNames": [
+        "6.png"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "OSINT",
+      "familyPath": "3. OSINT",
+      "title": "Public Transit",
+      "path": "3. OSINT/4. Travellers/1. Public Transit",
+      "challengeFile": "3. OSINT/4. Travellers/1. Public Transit/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "3. OSINT/4. Travellers/1. Public Transit/CTF Write-up - Travellers by Senpai 2026.pdf",
+      "artifactCount": 7,
+      "imagePaths": [
+        "3. OSINT/4. Travellers/1. Public Transit/point island.png",
+        "3. OSINT/4. Travellers/1. Public Transit/travellers_part1.webp"
+      ],
+      "artifactNames": [
+        "CTF Write-up - Travellers by Senpai 2026.pdf",
+        "Public_Transit.md",
+        "point island.png",
+        "point island.png~",
+        "public_transit_writeup.txt",
+        "travellers_part1.webp"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "OSINT",
+      "familyPath": "3. OSINT",
+      "title": "Shopping Centre",
+      "path": "3. OSINT/4. Travellers/2. Shopping Centre",
+      "challengeFile": "3. OSINT/4. Travellers/2. Shopping Centre/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "3. OSINT/4. Travellers/2. Shopping Centre/CTF Write-up - Travellers_ Shopping Centre by Senpai 2026.pdf",
+      "artifactCount": 6,
+      "imagePaths": [
+        "3. OSINT/4. Travellers/2. Shopping Centre/arena city.png",
+        "3. OSINT/4. Travellers/2. Shopping Centre/travellers_part2.jpg"
+      ],
+      "artifactNames": [
+        "CTF Write-up - Travellers_ Shopping Centre by Senpai 2026.pdf",
+        "Travellers_Shopping_Centre.md",
+        "arena city.png",
+        "shopping_centre_writeup.txt",
+        "travellers_part2.jpg"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "OSINT",
+      "familyPath": "3. OSINT",
+      "title": "A little too urban",
+      "path": "3. OSINT/4. Travellers/3. A little too urban",
+      "challengeFile": "3. OSINT/4. Travellers/3. A little too urban/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "3. OSINT/4. Travellers/3. A little too urban/CTF Write-up - Travellers_ A Little Too Urban by Senpai 2026.pdf",
+      "artifactCount": 7,
+      "imagePaths": [
+        "3. OSINT/4. Travellers/3. A little too urban/alterna club.png",
+        "3. OSINT/4. Travellers/3. A little too urban/travellers_part4.jpg"
+      ],
+      "artifactNames": [
+        "CTF Write-up - Travellers_ A Little Too Urban by Senpai 2026.pdf",
+        "Travellers_Too_Urban.md",
+        "a_little_too_urban_writeup.txt",
+        "alterna club.png",
+        "travellers_part4.heic",
+        "travellers_part4.jpg"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "OSINT",
+      "familyPath": "3. OSINT",
+      "title": "A beautiful view",
+      "path": "3. OSINT/4. Travellers/4. A beautiful view",
+      "challengeFile": "3. OSINT/4. Travellers/4. A beautiful view/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "3. OSINT/4. Travellers/4. A beautiful view/CTF Write-up - Travellers_ A Beautiful View by Senpai 2026.pdf",
+      "artifactCount": 6,
+      "imagePaths": [
+        "3. OSINT/4. Travellers/4. A beautiful view/Lilac cafe.png",
+        "3. OSINT/4. Travellers/4. A beautiful view/travellers_part3.jpg"
+      ],
+      "artifactNames": [
+        "CTF Write-up - Travellers_ A Beautiful View by Senpai 2026.pdf",
+        "Lilac cafe.png",
+        "Travellers_Beautiful_View.md",
+        "a_beautiful_view_writeup.txt",
+        "travellers_part3.jpg"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "OSINT",
+      "familyPath": "3. OSINT",
+      "title": "Epilogue part. I",
+      "path": "3. OSINT/5.  End of the World/1. Epilogue part. I",
+      "challengeFile": "3. OSINT/5.  End of the World/1. Epilogue part. I/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "3. OSINT/5.  End of the World/1. Epilogue part. I/osint/end of the world/epilogue part I/epilogue_part_I.md",
+      "artifactCount": 4,
+      "imagePaths": [
+        "3. OSINT/5.  End of the World/1. Epilogue part. I/Untitled-1.png",
+        "3. OSINT/5.  End of the World/1. Epilogue part. I/Untitled-2.png"
+      ],
+      "artifactNames": [
+        "Untitled-1.png",
+        "Untitled-2.png",
+        "osint/end of the world/epilogue part I/epilogue_part_I.md"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "OSINT",
+      "familyPath": "3. OSINT",
+      "title": "Epilogue part. II",
+      "path": "3. OSINT/5.  End of the World/2. Epilogue part. II",
+      "challengeFile": "3. OSINT/5.  End of the World/2. Epilogue part. II/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "3. OSINT/5.  End of the World/2. Epilogue part. II/Epilogue_part_II.md",
+      "artifactCount": 5,
+      "imagePaths": [
+        "3. OSINT/5.  End of the World/2. Epilogue part. II/2026-05-02_00.24.40.png",
+        "3. OSINT/5.  End of the World/2. Epilogue part. II/2026-05-02_00.26.21.png",
+        "3. OSINT/5.  End of the World/2. Epilogue part. II/MC2.png"
+      ],
+      "artifactNames": [
+        "2026-05-02_00.24.40.png",
+        "2026-05-02_00.26.21.png",
+        "Epilogue_part_II.md",
+        "MC2.png"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "SPAN sniff",
+      "path": "4. Forensics/1. SPAN sniff",
+      "challengeFile": "4. Forensics/1. SPAN sniff/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "4. Forensics/1. SPAN sniff/SPAN_Sniff.md",
+      "artifactCount": 8,
+      "imagePaths": [
+        "4. Forensics/1. SPAN sniff/flag.png"
+      ],
+      "artifactNames": [
+        "SPAN_Sniff.md",
+        "SPAN_sniff_writeup.docx",
+        "SPAN_writeup.txt",
+        "flag.png",
+        "flag.txt",
+        "network.pcap",
+        "solver.py"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Signals from the void",
+      "path": "4. Forensics/2. Signals from the void",
+      "challengeFile": "4. Forensics/2. Signals from the void/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "4. Forensics/2. Signals from the void/frames.pdf",
+      "artifactCount": 260,
+      "imagePaths": [
+        "4. Forensics/2. Signals from the void/signals/img_001ebfafa7764c99.png",
+        "4. Forensics/2. Signals from the void/signals/img_013f174fd80d4311.png",
+        "4. Forensics/2. Signals from the void/signals/img_0204edb649ab47ae.png",
+        "4. Forensics/2. Signals from the void/signals/img_021af1cf4f984ba5.png",
+        "4. Forensics/2. Signals from the void/signals/img_026109b64a764865.png",
+        "4. Forensics/2. Signals from the void/signals/img_02c8fec265a54bf2.png",
+        "4. Forensics/2. Signals from the void/signals/img_03749346d1334c85.png",
+        "4. Forensics/2. Signals from the void/signals/img_048f36f0bd2540ec.png",
+        "4. Forensics/2. Signals from the void/signals/img_0492f2f96f6e4353.png",
+        "4. Forensics/2. Signals from the void/signals/img_05f3a2d082424de3.png",
+        "4. Forensics/2. Signals from the void/signals/img_09ec66ce0b90498a.png",
+        "4. Forensics/2. Signals from the void/signals/img_0c65cb49c84e4d72.png",
+        "4. Forensics/2. Signals from the void/signals/img_0d164c10d4b34269.png",
+        "4. Forensics/2. Signals from the void/signals/img_0d5f50f4d9f147e8.png",
+        "4. Forensics/2. Signals from the void/signals/img_0d643b2e5d2347b1.png",
+        "4. Forensics/2. Signals from the void/signals/img_0e621db9da1d45a6.png",
+        "4. Forensics/2. Signals from the void/signals/img_0ef142b9ecde4609.png",
+        "4. Forensics/2. Signals from the void/signals/img_0f131dcadec8494a.png",
+        "4. Forensics/2. Signals from the void/signals/img_0f8d1b4b0d1c4ded.png",
+        "4. Forensics/2. Signals from the void/signals/img_118975eacdf04787.png",
+        "4. Forensics/2. Signals from the void/signals/img_1694267c6892487a.png",
+        "4. Forensics/2. Signals from the void/signals/img_17d65829c7c44184.png",
+        "4. Forensics/2. Signals from the void/signals/img_1818ba9a5d5e4b23.png",
+        "4. Forensics/2. Signals from the void/signals/img_18499a2e2def4bb6.png",
+        "4. Forensics/2. Signals from the void/signals/img_187088ba5bd24f2e.png",
+        "4. Forensics/2. Signals from the void/signals/img_1aaa686ac10f420b.png",
+        "4. Forensics/2. Signals from the void/signals/img_1bca3e3122ae4468.png",
+        "4. Forensics/2. Signals from the void/signals/img_1bdb5f6efcff460c.png",
+        "4. Forensics/2. Signals from the void/signals/img_1cdc0f4b9bab403b.png",
+        "4. Forensics/2. Signals from the void/signals/img_1d63458f40db4221.png",
+        "4. Forensics/2. Signals from the void/signals/img_1ece40fa19944434.png",
+        "4. Forensics/2. Signals from the void/signals/img_20080b96ae7b4c8e.png",
+        "4. Forensics/2. Signals from the void/signals/img_21f791049f8d46d4.png",
+        "4. Forensics/2. Signals from the void/signals/img_225702b27dd04653.png",
+        "4. Forensics/2. Signals from the void/signals/img_2432dede618344bb.png",
+        "4. Forensics/2. Signals from the void/signals/img_28ed8178ca6744e1.png",
+        "4. Forensics/2. Signals from the void/signals/img_2d13794421584fca.png",
+        "4. Forensics/2. Signals from the void/signals/img_2d960085052a456f.png",
+        "4. Forensics/2. Signals from the void/signals/img_2dd149bbb8044d97.png",
+        "4. Forensics/2. Signals from the void/signals/img_2e244421be164e30.png",
+        "4. Forensics/2. Signals from the void/signals/img_2ef468ab2d544004.png",
+        "4. Forensics/2. Signals from the void/signals/img_30c753e76cb64e5f.png",
+        "4. Forensics/2. Signals from the void/signals/img_313f41a70b52460c.png",
+        "4. Forensics/2. Signals from the void/signals/img_339c98b6f9354760.png",
+        "4. Forensics/2. Signals from the void/signals/img_352619f25a8b4acb.png",
+        "4. Forensics/2. Signals from the void/signals/img_3573561d951f492b.png",
+        "4. Forensics/2. Signals from the void/signals/img_377000ba785d437e.png",
+        "4. Forensics/2. Signals from the void/signals/img_39924e91258d4855.png",
+        "4. Forensics/2. Signals from the void/signals/img_3a4acd37b35c4d4f.png",
+        "4. Forensics/2. Signals from the void/signals/img_3a93c160f64c4926.png",
+        "4. Forensics/2. Signals from the void/signals/img_3abd8ca5bddf48fa.png",
+        "4. Forensics/2. Signals from the void/signals/img_3ad219d8dd73483c.png",
+        "4. Forensics/2. Signals from the void/signals/img_3b427873be624316.png",
+        "4. Forensics/2. Signals from the void/signals/img_3e1e906e333644f1.png",
+        "4. Forensics/2. Signals from the void/signals/img_3f2474b556454d5a.png",
+        "4. Forensics/2. Signals from the void/signals/img_3f7dae3b13c045a0.png",
+        "4. Forensics/2. Signals from the void/signals/img_40f1260a741a4c37.png",
+        "4. Forensics/2. Signals from the void/signals/img_441177c7865a4f65.png",
+        "4. Forensics/2. Signals from the void/signals/img_459b76cc827240a6.png",
+        "4. Forensics/2. Signals from the void/signals/img_460fda0f55334dfc.png",
+        "4. Forensics/2. Signals from the void/signals/img_466be85735af4fcc.png",
+        "4. Forensics/2. Signals from the void/signals/img_46aca641109a4b37.png",
+        "4. Forensics/2. Signals from the void/signals/img_47f52d0174ff429d.png",
+        "4. Forensics/2. Signals from the void/signals/img_4a73779f9d3a4d47.png",
+        "4. Forensics/2. Signals from the void/signals/img_4b77318be4974e58.png",
+        "4. Forensics/2. Signals from the void/signals/img_4bb05ac2933d4bf1.png",
+        "4. Forensics/2. Signals from the void/signals/img_4c910e3c25204ee8.png",
+        "4. Forensics/2. Signals from the void/signals/img_4d2d348944994051.png",
+        "4. Forensics/2. Signals from the void/signals/img_4e279f23886b47cc.png",
+        "4. Forensics/2. Signals from the void/signals/img_50d62fe7996545de.png",
+        "4. Forensics/2. Signals from the void/signals/img_52804c0b0b484901.png",
+        "4. Forensics/2. Signals from the void/signals/img_52a0663230144e11.png",
+        "4. Forensics/2. Signals from the void/signals/img_52f57f45c76946d9.png",
+        "4. Forensics/2. Signals from the void/signals/img_537b919df73a4408.png",
+        "4. Forensics/2. Signals from the void/signals/img_5408649d8af14ec0.png",
+        "4. Forensics/2. Signals from the void/signals/img_5533cbbc70764f95.png",
+        "4. Forensics/2. Signals from the void/signals/img_565abda4cff2425e.png",
+        "4. Forensics/2. Signals from the void/signals/img_576f32b58b0c4674.png",
+        "4. Forensics/2. Signals from the void/signals/img_58f45022b6f24ed3.png",
+        "4. Forensics/2. Signals from the void/signals/img_598bf88925a740d6.png",
+        "4. Forensics/2. Signals from the void/signals/img_5d8e3ff604794d1e.png",
+        "4. Forensics/2. Signals from the void/signals/img_5e4c3544bdb343dd.png",
+        "4. Forensics/2. Signals from the void/signals/img_5e4dc9ad39dc4ad9.png",
+        "4. Forensics/2. Signals from the void/signals/img_5edc2a0529284b9f.png",
+        "4. Forensics/2. Signals from the void/signals/img_60bb5c38d3c14b84.png",
+        "4. Forensics/2. Signals from the void/signals/img_60e595067ae544a1.png",
+        "4. Forensics/2. Signals from the void/signals/img_620f97a53c8b41e6.png",
+        "4. Forensics/2. Signals from the void/signals/img_6230d1141da44bbd.png",
+        "4. Forensics/2. Signals from the void/signals/img_64a3f31edb7e472e.png",
+        "4. Forensics/2. Signals from the void/signals/img_64bb77e08f9142e4.png",
+        "4. Forensics/2. Signals from the void/signals/img_64df0653d39a4a28.png",
+        "4. Forensics/2. Signals from the void/signals/img_64e0965a829d436f.png",
+        "4. Forensics/2. Signals from the void/signals/img_662e8a62589c4f67.png",
+        "4. Forensics/2. Signals from the void/signals/img_671a85d4362c4789.png",
+        "4. Forensics/2. Signals from the void/signals/img_6727434a4d704f7d.png",
+        "4. Forensics/2. Signals from the void/signals/img_6925ae242e8f4b71.png",
+        "4. Forensics/2. Signals from the void/signals/img_69ccb35682ca4ea1.png",
+        "4. Forensics/2. Signals from the void/signals/img_6addef165cdb4c19.png",
+        "4. Forensics/2. Signals from the void/signals/img_6ae3d79e1ad24ede.png",
+        "4. Forensics/2. Signals from the void/signals/img_6b18bba8c8fc48ca.png",
+        "4. Forensics/2. Signals from the void/signals/img_6b3986c88a56439e.png",
+        "4. Forensics/2. Signals from the void/signals/img_6bb9b1e3c67446b2.png",
+        "4. Forensics/2. Signals from the void/signals/img_6c5244a1fdef4c7c.png",
+        "4. Forensics/2. Signals from the void/signals/img_6c6ed4402e4f440b.png",
+        "4. Forensics/2. Signals from the void/signals/img_6e2025b07a7b4dc7.png",
+        "4. Forensics/2. Signals from the void/signals/img_6e5691e9f84c4037.png",
+        "4. Forensics/2. Signals from the void/signals/img_6ecbbcb229d04e17.png",
+        "4. Forensics/2. Signals from the void/signals/img_70ca5b24810c49b7.png",
+        "4. Forensics/2. Signals from the void/signals/img_710fba07927c48c0.png",
+        "4. Forensics/2. Signals from the void/signals/img_73bf228b150b435e.png",
+        "4. Forensics/2. Signals from the void/signals/img_75eb5d1c4461453a.png",
+        "4. Forensics/2. Signals from the void/signals/img_76fe884b4d2144bc.png",
+        "4. Forensics/2. Signals from the void/signals/img_7823a1ab8b564532.png",
+        "4. Forensics/2. Signals from the void/signals/img_7a76d964383f4e64.png",
+        "4. Forensics/2. Signals from the void/signals/img_7cd6a4d7b22d478c.png",
+        "4. Forensics/2. Signals from the void/signals/img_7d46c2b974344f23.png",
+        "4. Forensics/2. Signals from the void/signals/img_7dc8b2d823f54dae.png",
+        "4. Forensics/2. Signals from the void/signals/img_7e5e6813b6c74d86.png",
+        "4. Forensics/2. Signals from the void/signals/img_7fead10b9eb14f63.png",
+        "4. Forensics/2. Signals from the void/signals/img_80b31842007b43cb.png",
+        "4. Forensics/2. Signals from the void/signals/img_813cf3f4501848cf.png",
+        "4. Forensics/2. Signals from the void/signals/img_8318017345764179.png",
+        "4. Forensics/2. Signals from the void/signals/img_840ff98feac94f70.png",
+        "4. Forensics/2. Signals from the void/signals/img_8600477f2975455f.png",
+        "4. Forensics/2. Signals from the void/signals/img_86761a16588a4f09.png",
+        "4. Forensics/2. Signals from the void/signals/img_873f057e15e249c8.png",
+        "4. Forensics/2. Signals from the void/signals/img_885700e6d31a4289.png",
+        "4. Forensics/2. Signals from the void/signals/img_88d264ccbd374a34.png",
+        "4. Forensics/2. Signals from the void/signals/img_88e4c0de04da4e28.png",
+        "4. Forensics/2. Signals from the void/signals/img_88f975a3d0a249ca.png",
+        "4. Forensics/2. Signals from the void/signals/img_8a9e01ec8d504e52.png",
+        "4. Forensics/2. Signals from the void/signals/img_8e11ad676bb34fe4.png",
+        "4. Forensics/2. Signals from the void/signals/img_8eb7ab0392cc459b.png",
+        "4. Forensics/2. Signals from the void/signals/img_8fb59d4d16914c1c.png",
+        "4. Forensics/2. Signals from the void/signals/img_925d5c6fe8d94f80.png",
+        "4. Forensics/2. Signals from the void/signals/img_93c3d1b7144348b8.png",
+        "4. Forensics/2. Signals from the void/signals/img_94239d35401c4744.png",
+        "4. Forensics/2. Signals from the void/signals/img_950c50871f3b4fe5.png",
+        "4. Forensics/2. Signals from the void/signals/img_9513db8654464e8c.png",
+        "4. Forensics/2. Signals from the void/signals/img_96740f42fa544cb1.png",
+        "4. Forensics/2. Signals from the void/signals/img_970fc0add60a4b2c.png",
+        "4. Forensics/2. Signals from the void/signals/img_98e1f19dd1994fad.png",
+        "4. Forensics/2. Signals from the void/signals/img_991ec6570cfa404b.png",
+        "4. Forensics/2. Signals from the void/signals/img_9af7c5fe096044f5.png",
+        "4. Forensics/2. Signals from the void/signals/img_9c597852450a4de4.png",
+        "4. Forensics/2. Signals from the void/signals/img_9d90b02515e6497c.png",
+        "4. Forensics/2. Signals from the void/signals/img_9eac54ffbb7e4631.png",
+        "4. Forensics/2. Signals from the void/signals/img_a0687ffb46ce407e.png",
+        "4. Forensics/2. Signals from the void/signals/img_a1a26aaf20e04837.png",
+        "4. Forensics/2. Signals from the void/signals/img_a1cd429b546b43da.png",
+        "4. Forensics/2. Signals from the void/signals/img_a3fecfc04fe3407a.png",
+        "4. Forensics/2. Signals from the void/signals/img_a4909dcf41504e1b.png",
+        "4. Forensics/2. Signals from the void/signals/img_a79c3cd567d641d9.png",
+        "4. Forensics/2. Signals from the void/signals/img_a830be73c28a46e2.png",
+        "4. Forensics/2. Signals from the void/signals/img_a865a2abfae94c9a.png",
+        "4. Forensics/2. Signals from the void/signals/img_aac66443c81a49bb.png",
+        "4. Forensics/2. Signals from the void/signals/img_ad80b253e2f046fc.png",
+        "4. Forensics/2. Signals from the void/signals/img_ada421c25d904386.png",
+        "4. Forensics/2. Signals from the void/signals/img_add8fbeb8a144e47.png",
+        "4. Forensics/2. Signals from the void/signals/img_af4ab3c29ac0467b.png",
+        "4. Forensics/2. Signals from the void/signals/img_af4d4c7a84a140af.png",
+        "4. Forensics/2. Signals from the void/signals/img_af7627f390ac47b9.png",
+        "4. Forensics/2. Signals from the void/signals/img_afeada43e7814d32.png",
+        "4. Forensics/2. Signals from the void/signals/img_b05e235f9f494399.png",
+        "4. Forensics/2. Signals from the void/signals/img_b0c4690ef4c64e89.png",
+        "4. Forensics/2. Signals from the void/signals/img_b179a7734581420f.png",
+        "4. Forensics/2. Signals from the void/signals/img_b3548cc8932849ed.png",
+        "4. Forensics/2. Signals from the void/signals/img_b38e9bfb47e74c0c.png",
+        "4. Forensics/2. Signals from the void/signals/img_b41c3b292708452b.png",
+        "4. Forensics/2. Signals from the void/signals/img_b483bd3200904dd8.png",
+        "4. Forensics/2. Signals from the void/signals/img_b501ba6675e64efc.png",
+        "4. Forensics/2. Signals from the void/signals/img_b6629c638a40491b.png",
+        "4. Forensics/2. Signals from the void/signals/img_b677ad0c51ad4f96.png",
+        "4. Forensics/2. Signals from the void/signals/img_b7f1cc5d6fc54071.png",
+        "4. Forensics/2. Signals from the void/signals/img_b92149c308434b34.png",
+        "4. Forensics/2. Signals from the void/signals/img_b9cf69165fda4a40.png",
+        "4. Forensics/2. Signals from the void/signals/img_ba13d61f3bd1498b.png",
+        "4. Forensics/2. Signals from the void/signals/img_bab533a46e00476d.png",
+        "4. Forensics/2. Signals from the void/signals/img_bb7cc0b50d034d67.png",
+        "4. Forensics/2. Signals from the void/signals/img_bc1eac37dd1c43df.png",
+        "4. Forensics/2. Signals from the void/signals/img_bdfa2aafabf24748.png",
+        "4. Forensics/2. Signals from the void/signals/img_be2dd5ce53ae4239.png",
+        "4. Forensics/2. Signals from the void/signals/img_be858aef385f453e.png",
+        "4. Forensics/2. Signals from the void/signals/img_bee3a23ed5434507.png",
+        "4. Forensics/2. Signals from the void/signals/img_bf3ad115a6a447b4.png",
+        "4. Forensics/2. Signals from the void/signals/img_bfef47c723ea41be.png",
+        "4. Forensics/2. Signals from the void/signals/img_c037606d287349dc.png",
+        "4. Forensics/2. Signals from the void/signals/img_c05b4cafe08a48e3.png",
+        "4. Forensics/2. Signals from the void/signals/img_c0a1a89afb8141a6.png",
+        "4. Forensics/2. Signals from the void/signals/img_c2b9386cb52f4f1d.png",
+        "4. Forensics/2. Signals from the void/signals/img_c3cf59d872ab43aa.png",
+        "4. Forensics/2. Signals from the void/signals/img_c5719d36f68540bf.png",
+        "4. Forensics/2. Signals from the void/signals/img_c70111cd56de4509.png",
+        "4. Forensics/2. Signals from the void/signals/img_c87860f39bf84f9a.png",
+        "4. Forensics/2. Signals from the void/signals/img_c960a51775c64b57.png",
+        "4. Forensics/2. Signals from the void/signals/img_c9fcb2e7adc34ae1.png",
+        "4. Forensics/2. Signals from the void/signals/img_cabb253dcc074878.png",
+        "4. Forensics/2. Signals from the void/signals/img_cbaec546d6164fbb.png",
+        "4. Forensics/2. Signals from the void/signals/img_cd222296e8d24132.png",
+        "4. Forensics/2. Signals from the void/signals/img_cd593cff829d4a21.png",
+        "4. Forensics/2. Signals from the void/signals/img_d1a652749bca4a53.png",
+        "4. Forensics/2. Signals from the void/signals/img_d1bae7d34452475e.png",
+        "4. Forensics/2. Signals from the void/signals/img_d25008978ad44679.png",
+        "4. Forensics/2. Signals from the void/signals/img_d7aa65265a0b4ca4.png",
+        "4. Forensics/2. Signals from the void/signals/img_d9b85c1c9429418b.png",
+        "4. Forensics/2. Signals from the void/signals/img_da9cad3f3d9245d3.png",
+        "4. Forensics/2. Signals from the void/signals/img_dcc2b8255c3d4a2a.png",
+        "4. Forensics/2. Signals from the void/signals/img_dd0bba38a63a492c.png",
+        "4. Forensics/2. Signals from the void/signals/img_dd69e1348870445c.png",
+        "4. Forensics/2. Signals from the void/signals/img_dd8f3f9ac02d436b.png",
+        "4. Forensics/2. Signals from the void/signals/img_dd97e2c27c98494c.png",
+        "4. Forensics/2. Signals from the void/signals/img_de0334db4a874ca8.png",
+        "4. Forensics/2. Signals from the void/signals/img_de193bf3427c4de3.png",
+        "4. Forensics/2. Signals from the void/signals/img_de9f58cba6f44896.png",
+        "4. Forensics/2. Signals from the void/signals/img_deec496bf9444003.png",
+        "4. Forensics/2. Signals from the void/signals/img_df254c39777d4551.png",
+        "4. Forensics/2. Signals from the void/signals/img_dfc9979f842f4ce4.png",
+        "4. Forensics/2. Signals from the void/signals/img_e0baaf478c8f49d1.png",
+        "4. Forensics/2. Signals from the void/signals/img_e0cdd2fa622743fa.png",
+        "4. Forensics/2. Signals from the void/signals/img_e11ff6d274794352.png",
+        "4. Forensics/2. Signals from the void/signals/img_e18718c8bb294f41.png",
+        "4. Forensics/2. Signals from the void/signals/img_e27c9b2276a54fd2.png",
+        "4. Forensics/2. Signals from the void/signals/img_e2a3b127e8de43e2.png",
+        "4. Forensics/2. Signals from the void/signals/img_e430ff0533cc493b.png",
+        "4. Forensics/2. Signals from the void/signals/img_e43ff4197bc74281.png",
+        "4. Forensics/2. Signals from the void/signals/img_e4af16398adb404e.png",
+        "4. Forensics/2. Signals from the void/signals/img_e4da5e6bd83a4e2a.png",
+        "4. Forensics/2. Signals from the void/signals/img_e7ccc2f714dd48a4.png",
+        "4. Forensics/2. Signals from the void/signals/img_ea0f602ca8244ef6.png",
+        "4. Forensics/2. Signals from the void/signals/img_ea7593249ec0449b.png",
+        "4. Forensics/2. Signals from the void/signals/img_ead63cd6af5b41d6.png",
+        "4. Forensics/2. Signals from the void/signals/img_ebc1c15f4a7f4d38.png",
+        "4. Forensics/2. Signals from the void/signals/img_ebf61dc1d30d4fcb.png",
+        "4. Forensics/2. Signals from the void/signals/img_eca58130bd444c63.png",
+        "4. Forensics/2. Signals from the void/signals/img_ed7bee28380840f7.png",
+        "4. Forensics/2. Signals from the void/signals/img_ee3ae139039f4878.png",
+        "4. Forensics/2. Signals from the void/signals/img_eecd74acb54245ec.png",
+        "4. Forensics/2. Signals from the void/signals/img_ef4cfec7769e4539.png",
+        "4. Forensics/2. Signals from the void/signals/img_ef56b4afa8f04ce5.png",
+        "4. Forensics/2. Signals from the void/signals/img_f0ca1e923cca4205.png",
+        "4. Forensics/2. Signals from the void/signals/img_f0f96a40be0e475c.png",
+        "4. Forensics/2. Signals from the void/signals/img_f26b55980860451b.png",
+        "4. Forensics/2. Signals from the void/signals/img_f31a0c7022594f0a.png",
+        "4. Forensics/2. Signals from the void/signals/img_f4d3f3e3594d42a0.png",
+        "4. Forensics/2. Signals from the void/signals/img_f56bebcfab1846ce.png",
+        "4. Forensics/2. Signals from the void/signals/img_f7ed3ff0233d490c.png",
+        "4. Forensics/2. Signals from the void/signals/img_fb76dab07153492d.png",
+        "4. Forensics/2. Signals from the void/signals/img_fc7834621bf6436c.png",
+        "4. Forensics/2. Signals from the void/signals/img_fd098dc7b32a494a.png",
+        "4. Forensics/2. Signals from the void/signals/img_fd125def16e24187.png",
+        "4. Forensics/2. Signals from the void/signals/img_fdee219265ec4225.png",
+        "4. Forensics/2. Signals from the void/signals/img_fe63e22df2754ab2.png",
+        "4. Forensics/2. Signals from the void/signals/img_ff1f53de2b4044e2.png",
+        "4. Forensics/2. Signals from the void/signals/img_ff382e8805e84314.png",
+        "4. Forensics/2. Signals from the void/signals/img_ffb953d51f4646ce.png",
+        "4. Forensics/2. Signals from the void/signals/img_ffbf7d51944c4c1a.png"
+      ],
+      "artifactNames": [
+        "flag.txt",
+        "frames.pdf",
+        "handout.7z",
+        "signals/img_001ebfafa7764c99.png",
+        "signals/img_013f174fd80d4311.png",
+        "signals/img_0204edb649ab47ae.png",
+        "signals/img_021af1cf4f984ba5.png",
+        "signals/img_026109b64a764865.png",
+        "signals/img_02c8fec265a54bf2.png",
+        "signals/img_03749346d1334c85.png",
+        "signals/img_048f36f0bd2540ec.png",
+        "signals/img_0492f2f96f6e4353.png"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Insider",
+      "path": "4. Forensics/3. Insider",
+      "challengeFile": "4. Forensics/3. Insider/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 3,
+      "imagePaths": [],
+      "artifactNames": [
+        "encrypted.7z",
+        "handout.dmp"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Telemetry",
+      "path": "4. Forensics/4. Telemetry",
+      "challengeFile": "4. Forensics/4. Telemetry/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "4. Forensics/4. Telemetry/Telemetry.md",
+      "artifactCount": 12,
+      "imagePaths": [
+        "4. Forensics/4. Telemetry/flight_path.png",
+        "4. Forensics/4. Telemetry/flight_path2.png",
+        "4. Forensics/4. Telemetry/flight_path3.png",
+        "4. Forensics/4. Telemetry/flight_readable.png",
+        "4. Forensics/4. Telemetry/flight_scaled.png"
+      ],
+      "artifactNames": [
+        "Telemetry.md",
+        "Telemetry_Writeup_by_Senpai.pdf",
+        "flag.txt",
+        "flight_path.png",
+        "flight_path2.png",
+        "flight_path3.png",
+        "flight_readable.png",
+        "flight_scaled.png",
+        "solve_telemetry.py",
+        "telemetry.data",
+        "telemetry_writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Gamer",
+      "path": "4. Forensics/5. Gamer",
+      "challengeFile": "4. Forensics/5. Gamer/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 1,
+      "imagePaths": [],
+      "artifactNames": [],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Elephant 1",
+      "path": "4. Forensics/6. Forensics Sanity Check/1. Elephant 1",
+      "challengeFile": "4. Forensics/6. Forensics Sanity Check/1. Elephant 1/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 3,
+      "imagePaths": [
+        "4. Forensics/6. Forensics Sanity Check/1. Elephant 1/elephant.png",
+        "4. Forensics/6. Forensics Sanity Check/1. Elephant 1/flag.png"
+      ],
+      "artifactNames": [
+        "elephant.png",
+        "flag.png"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Elephant 2",
+      "path": "4. Forensics/6. Forensics Sanity Check/2. Elephant 2",
+      "challengeFile": "4. Forensics/6. Forensics Sanity Check/2. Elephant 2/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 3,
+      "imagePaths": [
+        "4. Forensics/6. Forensics Sanity Check/2. Elephant 2/elephant.png",
+        "4. Forensics/6. Forensics Sanity Check/2. Elephant 2/flag.png"
+      ],
+      "artifactNames": [
+        "elephant.png",
+        "flag.png"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Tables",
+      "path": "4. Forensics/7. Administrative tasks/1. Tables",
+      "challengeFile": "4. Forensics/7. Administrative tasks/1. Tables/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "4. Forensics/7. Administrative tasks/1. Tables/(Tables) _writeup_by_Senpai_2026-1.pdf",
+      "artifactCount": 10,
+      "imagePaths": [],
+      "artifactNames": [
+        "(Tables) _writeup_by_Senpai_2026-1.pdf",
+        "Excel_Forensics.md",
+        "README1.txt",
+        "admin_tasks_writeup.txt",
+        "challenge files PART_1.zip",
+        "flag.txt",
+        "flag1.zip",
+        "password.txt",
+        "tables_writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Paragraphs",
+      "path": "4. Forensics/7. Administrative tasks/2. Paragraphs",
+      "challengeFile": "4. Forensics/7. Administrative tasks/2. Paragraphs/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "4. Forensics/7. Administrative tasks/2. Paragraphs/MS_Word_Forensics.md",
+      "artifactCount": 8,
+      "imagePaths": [],
+      "artifactNames": [
+        "MS_Word_Forensics.md",
+        "Paragraphs_Writeup_by_Senpai_2026.pdf",
+        "README2.txt",
+        "challenge files PART_2.zip",
+        "flag.txt",
+        "paragraps_writeup.txt",
+        "password.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Portable",
+      "path": "4. Forensics/7. Administrative tasks/3. Portable",
+      "challengeFile": "4. Forensics/7. Administrative tasks/3. Portable/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "4. Forensics/7. Administrative tasks/3. Portable/PDF_Forensics.md",
+      "artifactCount": 6,
+      "imagePaths": [],
+      "artifactNames": [
+        "PDF_Forensics.md",
+        "Portable Document Forensics_Writeup_by_Senpai_2026.pdf",
+        "challenge files PART_3.zip",
+        "crack.txt",
+        "portable_writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Activity check",
+      "path": "4. Forensics/8. Volatile incident/1. Activity check",
+      "challengeFile": "4. Forensics/8. Volatile incident/1. Activity check/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "4. Forensics/8. Volatile incident/1. Activity check/Volatile_Activity_Check.md",
+      "artifactCount": 5,
+      "imagePaths": [],
+      "artifactNames": [
+        "Volatile_Activity_Check.md",
+        "flag.txt",
+        "solve.py",
+        "volatile_incident_writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Instance of a program",
+      "path": "4. Forensics/8. Volatile incident/2. Instance of a program",
+      "challengeFile": "4. Forensics/8. Volatile incident/2. Instance of a program/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "4. Forensics/8. Volatile incident/2. Instance of a program/Volatile_Instance_of_Program.md",
+      "artifactCount": 4,
+      "imagePaths": [],
+      "artifactNames": [
+        "Volatile_Instance_of_Program.md",
+        "flag.txt",
+        "instance_of_a_program_writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Remote commands",
+      "path": "4. Forensics/8. Volatile incident/3. Remote commands",
+      "challengeFile": "4. Forensics/8. Volatile incident/3. Remote commands/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "4. Forensics/8. Volatile incident/3. Remote commands/Volatile_Remote_Commands.md",
+      "artifactCount": 3,
+      "imagePaths": [],
+      "artifactNames": [
+        "Volatile_Remote_Commands.md",
+        "remote_commands_writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Business as Usual",
+      "path": "4. Forensics/9. Diskbasics/1. Business as Usual",
+      "challengeFile": "4. Forensics/9. Diskbasics/1. Business as Usual/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 1,
+      "imagePaths": [],
+      "artifactNames": [],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Perfectly Normal Activity",
+      "path": "4. Forensics/9. Diskbasics/2. Perfectly Normal Activity",
+      "challengeFile": "4. Forensics/9. Diskbasics/2. Perfectly Normal Activity/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 1,
+      "imagePaths": [],
+      "artifactNames": [],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "Nothing to See Here",
+      "path": "4. Forensics/9. Diskbasics/3. Nothing to See Here",
+      "challengeFile": "4. Forensics/9. Diskbasics/3. Nothing to See Here/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 1,
+      "imagePaths": [],
+      "artifactNames": [],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Forensics",
+      "familyPath": "4. Forensics",
+      "title": "After Hours",
+      "path": "4. Forensics/9. Diskbasics/4. After Hours",
+      "challengeFile": "4. Forensics/9. Diskbasics/4. After Hours/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 1,
+      "imagePaths": [],
+      "artifactNames": [],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Malware Analysis",
+      "familyPath": "5. Malware Analysis",
+      "title": "To True or Not To True",
+      "path": "5. Malware Analysis/1. To True or Not To True",
+      "challengeFile": "5. Malware Analysis/1. To True or Not To True/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "5. Malware Analysis/1. To True or Not To True/TrueOrFalse.md",
+      "artifactCount": 5,
+      "imagePaths": [],
+      "artifactNames": [
+        "TrueOrFalse.md",
+        "trueorfalse.py",
+        "trueorfalse_writeup.docx",
+        "trueorflase-writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Malware Analysis",
+      "familyPath": "5. Malware Analysis",
+      "title": "Lesser less",
+      "path": "5. Malware Analysis/2. Lesser less",
+      "challengeFile": "5. Malware Analysis/2. Lesser less/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "5. Malware Analysis/2. Lesser less/lesser_less_writeup.md",
+      "artifactCount": 7,
+      "imagePaths": [],
+      "artifactNames": [
+        "flag.txt",
+        "hashes.txt",
+        "less",
+        "lesser_less_writeup.md",
+        "lesser_less_writeup.txt",
+        "solver.py"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Malware Analysis",
+      "familyPath": "5. Malware Analysis",
+      "title": "Flappy",
+      "path": "5. Malware Analysis/3. Flappy",
+      "challengeFile": "5. Malware Analysis/3. Flappy/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "5. Malware Analysis/3. Flappy/Flappy - Write-up by Senpai 2026.pdf",
+      "artifactCount": 4,
+      "imagePaths": [],
+      "artifactNames": [
+        "Flappy - Write-up by Senpai 2026.pdf",
+        "Flappy.md",
+        "flappy_writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Malware Analysis",
+      "familyPath": "5. Malware Analysis",
+      "title": "Lock Screen",
+      "path": "5. Malware Analysis/4. Lock Screen",
+      "challengeFile": "5. Malware Analysis/4. Lock Screen/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "5. Malware Analysis/4. Lock Screen/Lock_Screen.md",
+      "artifactCount": 7,
+      "imagePaths": [],
+      "artifactNames": [
+        "Lock_Screen.md",
+        "droid.apk",
+        "droid_patched.apk",
+        "lock_screen_writeup.txt",
+        "lock_screen_writeup_by_Senpai_2026.pdf",
+        "solver.py"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Malware Analysis",
+      "familyPath": "5. Malware Analysis",
+      "title": "Shifted Payload",
+      "path": "5. Malware Analysis/5. Shifted Payload",
+      "challengeFile": "5. Malware Analysis/5. Shifted Payload/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 2,
+      "imagePaths": [],
+      "artifactNames": [
+        "less"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Malware Analysis",
+      "familyPath": "5. Malware Analysis",
+      "title": "Picking letters",
+      "path": "5. Malware Analysis/6.Reversing/1. Picking letters",
+      "challengeFile": "5. Malware Analysis/6.Reversing/1. Picking letters/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "5. Malware Analysis/6.Reversing/1. Picking letters/Lorem_Reversing.md",
+      "artifactCount": 6,
+      "imagePaths": [
+        "5. Malware Analysis/6.Reversing/1. Picking letters/lorem solved.png"
+      ],
+      "artifactNames": [
+        "Lorem_Reversing.md",
+        "Picking Letters Write-up by Senpai 2026.pdf",
+        "lorem",
+        "lorem solved.png",
+        "lorem-write-up.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Malware Analysis",
+      "familyPath": "5. Malware Analysis",
+      "title": "Matrix sudoku",
+      "path": "5. Malware Analysis/6.Reversing/2. Matrix sudoku",
+      "challengeFile": "5. Malware Analysis/6.Reversing/2. Matrix sudoku/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 4,
+      "imagePaths": [],
+      "artifactNames": [
+        "flag.txt",
+        "get_flag.py",
+        "solved.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Malware Analysis",
+      "familyPath": "5. Malware Analysis",
+      "title": "Plaintext malware",
+      "path": "5. Malware Analysis/7. Malware Sanity Check/1. Plaintext malware",
+      "challengeFile": "5. Malware Analysis/7. Malware Sanity Check/1. Plaintext malware/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "5. Malware Analysis/7. Malware Sanity Check/1. Plaintext malware/Malware Sanity Check Writeup by Senpai 2026.pdf",
+      "artifactCount": 6,
+      "imagePaths": [
+        "5. Malware Analysis/7. Malware Sanity Check/1. Plaintext malware/flag.png"
+      ],
+      "artifactNames": [
+        "Malware Sanity Check Writeup by Senpai 2026.pdf",
+        "Malware_Sanity_Check.md",
+        "flag.png",
+        "mw.py",
+        "plaintext malware writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": true,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Malware Analysis",
+      "familyPath": "5. Malware Analysis",
+      "title": "A real world ransomware case",
+      "path": "5. Malware Analysis/8. Real World/1. A real world ransomware case",
+      "challengeFile": "5. Malware Analysis/8. Real World/1. A real world ransomware case/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "5. Malware Analysis/8. Real World/1. A real world ransomware case/Ransomware_Analysis.md",
+      "artifactCount": 13,
+      "imagePaths": [],
+      "artifactNames": [
+        "README.txt",
+        "Ransomware_Analysis.md",
+        "dec.py",
+        "decoder",
+        "extracted/seg0.bin",
+        "extracted/seg1.bin",
+        "extracted/seg2.bin",
+        "extracted/seg3.bin",
+        "extracted/seg4.bin",
+        "most_important_company_data.pdf.attacker",
+        "real.zip",
+        "real_world_ransomware_case_writeup.txt"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Malware Analysis",
+      "familyPath": "5. Malware Analysis",
+      "title": "Keypad",
+      "path": "5. Malware Analysis/9. Intergalactic/1. Keypad",
+      "challengeFile": "5. Malware Analysis/9. Intergalactic/1. Keypad/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 3,
+      "imagePaths": [],
+      "artifactNames": [
+        "flag.zip",
+        "intergalactic_keypad.exe"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Malware Analysis",
+      "familyPath": "5. Malware Analysis",
+      "title": "Warden",
+      "path": "5. Malware Analysis/9. Intergalactic/2. Warden",
+      "challengeFile": "5. Malware Analysis/9. Intergalactic/2. Warden/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 2,
+      "imagePaths": [],
+      "artifactNames": [
+        "warden"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    },
+    {
+      "family": "Malware Analysis",
+      "familyPath": "5. Malware Analysis",
+      "title": "Beacon v0",
+      "path": "5. Malware Analysis/9. Intergalactic/3. Beacon v0",
+      "challengeFile": "5. Malware Analysis/9. Intergalactic/3. Beacon v0/challenge.txt",
+      "writeupAvailable": true,
+      "writeupPath": "5. Malware Analysis/9. Intergalactic/3. Beacon v0/Beaconv0.md",
+      "artifactCount": 4,
+      "imagePaths": [],
+      "artifactNames": [
+        "Beaconv0.md",
+        "beaconv0",
+        "solver.py"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": true,
+        "visualEvidence": false,
+        "supportingTooling": true
+      }
+    },
+    {
+      "family": "Malware Analysis",
+      "familyPath": "5. Malware Analysis",
+      "title": "Beacon",
+      "path": "5. Malware Analysis/9. Intergalactic/4. Beacon",
+      "challengeFile": "5. Malware Analysis/9. Intergalactic/4. Beacon/challenge.txt",
+      "writeupAvailable": false,
+      "writeupPath": null,
+      "artifactCount": 2,
+      "imagePaths": [],
+      "artifactNames": [
+        "beacon"
+      ],
+      "workflowStages": {
+        "brief": true,
+        "writeup": false,
+        "visualEvidence": false,
+        "supportingTooling": false
+      }
+    }
+  ]
+}
